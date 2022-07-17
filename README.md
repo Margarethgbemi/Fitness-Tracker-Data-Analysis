@@ -28,7 +28,11 @@ a) Recommendation
 b) Conclusion
 
 
-Bellabeat is a high-tech company that manufactures health-focused smart products that informs and inspires women around the world.Bellabeat created first health tracker made specifically for women. It helps you manage your health and wellness, from fertility to periods to sleep quality. These smart products collect data on activity, sleep, stress and reproduction health. The data collected allows Bellabeat to empower women with knowledge about their own health and habits. Our focus will be on one of the Bellabeat products: 'Time'
+Bellabeat is a high-tech company that manufactures health-focused smart products.They offer different smart devices that collect data on activity, sleep, stress, and reproductive health to empower women with knowledge about their own health and habits.
+
+The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. We will focus on one of Bellabeat’s products: Bellabeat app.
+
+The Bellabeat app provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products: 'Time'
 
 
 Time is a wellness watch that combines the timeless look of a classic timepiece with smart technology to track user activity, sleep, and stress. The Time watch connects to the Bellabeat app to provide users with insights into their daily wellness. Reason for choosing this product is its close similarities with the non-bellabeat product; Fitbit tracker; whose dataset was specifically suggested by the Co-founder and CEO of Bellabeat to use for this study.
